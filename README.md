@@ -1,6 +1,6 @@
 ### Hi there, I am Xinhao Zheng 👋
 ---
-I'm currently working on computer vision and multimodal large language models
+- 🌱 I'm currently working on computer vision and multimodal large language models
 
 
 <!--
