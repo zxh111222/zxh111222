@@ -1,9 +1,8 @@
 <h1 align="center">zxh111222</h1>
 <p align="center">
-        <img alt="访问人数" href="https://visitor-badge.glitch.me/badge?page_id=zxh111222&left_color=green&right_color=red" />
-<!--     <a href="https://blog.charles7c.top/" target="_blank" style="display: inline-block;">
-        <img alt="个人主页" src="https://img.shields.io/badge/查尔斯的知识库-欢迎访问-brightgreen.svg?style=social&logo=blogger&logoColor=lightblue" />
-    </a>&nbsp; -->
+    <a href="https://http://47.122.49.197/" target="_blank" style="display: inline-block;">
+        <img alt="个人主页" src="https://img.shields.io/badge/Zxinhao-Welcome?style=social&logo=blogger&logoColor=lightblue" />
+    </a>&nbsp;
     <a href="https://github.com/zxh111222" target="_blank" style="display: inline-block;">
         <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-zxh111222-lightblue?logo=github" />
     </a>&nbsp;
