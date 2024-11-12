@@ -1,6 +1,5 @@
 
 <p align="center">
-    <img alt="访问人数" src="https://visitor-badge.laobi.icu/badge?page_id=zxh111222.zxh111222"  />
 <!--     <a href="https://blog.charles7c.top/" target="_blank" style="display: inline-block;">
         <img alt="个人主页" src="https://img.shields.io/badge/查尔斯的知识库-欢迎访问-brightgreen.svg?style=social&logo=blogger&logoColor=lightblue" />
     </a>&nbsp; -->
