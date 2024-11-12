@@ -1,7 +1,7 @@
 <h1 align="center">zxh111222</h1>
 <p align="center">
     <a href="https://http://47.122.49.197/" target="_blank" style="display: inline-block;">
-        <img alt="个人主页" src="https://img.shields.io/badge/Zxinhao-Welcome-brightgreen.svg?style=social&logo=blogger&logoColor=lightblue" />
+        <img alt="个人主页" src="https://img.shields.io/badge/Zxinhao-brightgreen.svg?style=social&logo=blogger&logoColor=lightblue" />
     </a>&nbsp;
     <a href="https://github.com/zxh111222" target="_blank" style="display: inline-block;">
         <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-zxh111222-lightblue?logo=github" />
