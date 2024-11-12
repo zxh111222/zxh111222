@@ -16,6 +16,7 @@
 ---
 🔭 I'm currently working on <u>computer vision</u>  
 🌱 I'm currently learning <u>multimodal large language models</u>  
+😄 I'm currently further mastering front-end and back-end development
 📬 Reach out to me: zhengxinhao557@gmail.com  
 📖 My motto: “悟已往之不谏，知来者之可追。”
 ---
