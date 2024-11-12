@@ -82,7 +82,9 @@
   <img src="https://img.shields.io/badge/-Adobe%20Photoshop-A9A9A9?logo=Adobe-Photoshop&logoColor=31A8FF" alt="Adobe Photoshop" style="display: inline-block;" />&nbsp;
 </p>
 
-
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxh111222&theme=white&hide_border=true" width="90%" />
+</div>
 
 
 
